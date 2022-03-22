@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "318f379983b98775",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6b7227ac52d8b67",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Useful Commands in Obsidian.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a39ef4662d6b8ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "f05d9913478476e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33d5baee0248b816",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab9d15b14737477e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "117a50cd06e00662",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2d07194a8e0aa8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b32c96d07fb359f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Useful Commands in Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "34569656308f6664",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238
+  },
+  "active": "a6b7227ac52d8b67",
+  "lastOpenFiles": [
+    "Useful Commands in Obsidian.md",
+    "README.md",
+    "Home.md",
+    "Projects/Lists.md",
+    "Notes/Lists.md",
+    "Projects.md",
+    "Projects/List.md",
+    "Notes/Notes.md",
+    "Projects/Projects.md",
+    "assets/Pasted image 20220322154517.png"
+  ]
+}
