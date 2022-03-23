@@ -1,11 +1,4 @@
 {
   "legacyEditor": false,
-  "livePreview": true,
-  "spellcheck": false,
-  "readableLineLength": false,
-  "foldHeading": true,
-  "trashOption": "system",
-  "attachmentFolderPath": "./_assets",
-  "promptDelete": true,
-  "fileSortOrder": "alphabetical"
+  "foldHeading": false
 }

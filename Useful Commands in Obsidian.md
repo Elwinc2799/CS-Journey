@@ -27,7 +27,7 @@ Create link to heading within a note
 
 Create link to a block
 ```
-[[note_name^block]]
+[[note_name#^block]]
 ```
 
 Reveal content of a link within the current note
