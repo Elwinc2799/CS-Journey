@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Lists.md",
-            "mode": "preview",
+            "file": "Home.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "aa483ae0128b8cca",
+    "id": "4bafccdcd1bea6e0",
     "type": "split",
     "children": [
       {
-        "id": "a6ee61bc2443eb86",
+        "id": "4cda577ec71bb44b",
         "type": "tabs",
         "children": [
           {
-            "id": "d928b09d291eeec4",
+            "id": "06384d237ab94267",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "0edfe654f2c5791a",
+            "id": "5c5b79ebd6a47dfd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,18 +53,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 179
+    "width": 300
   },
   "right": {
-    "id": "8766adb793b6e0ec",
+    "id": "7d584f45490b5c4a",
     "type": "split",
     "children": [
       {
-        "id": "2ce07db1f9704f1c",
+        "id": "748bbfe81d89e388",
         "type": "tabs",
         "children": [
           {
-            "id": "4b04b10c88817ff3",
+            "id": "608374c49ff5fd08",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -72,12 +72,12 @@
             }
           },
           {
-            "id": "a56218d75c9dd641",
+            "id": "3bc6ecbea7e18a0b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Lists.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,12 +98,15 @@
   },
   "active": "30c433fa02e0dbfe",
   "lastOpenFiles": [
-    "Notes/Lists.md",
     "Home.md",
-    "Notes/Git commands.md",
+    "Home_1.md",
+    "Projects/_Lists.md",
+    "Notes/_Lists.md",
+    "Projects/Dev Portfolio with Next.js.md",
+    "Projects/Premium Website with Next.js.md",
     "Useful Commands in Obsidian.md",
-    "Projects/Lists.md",
-    "README.md",
+    "Projects/Next.js.md",
+    "Notes/Git commands.md",
     "Untitled.md"
   ]
 }
