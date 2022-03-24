@@ -1,8 +1,8 @@
 # Directory
-1. [[/Projects/_lists|Personal Projects]]
+1. [Personal Projects](/Projects/_lists.md)
 - data science
 - software development
 
-2. [[/Notes/_lists|Learning Notes]]
+2. [Learning Notes](/Notes/_lists.md)
 - git
 - competitive programming

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Directory.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Directory.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,14 +98,14 @@
   },
   "active": "30c433fa02e0dbfe",
   "lastOpenFiles": [
-    "Directory.md",
-    "Notes/_lists.md",
     "README.md",
-    "Projects/_lists.md",
-    "Notes/Git-commands.md",
-    "Useful-Commands-in-Obsidian.md",
-    "Projects/Dev-Portfolio-with-Nextjs.md",
     "Projects/Premium-Website-with-Nextjs.md",
+    "Projects/_lists.md",
+    "Directory.md",
+    "Projects/Dev-Portfolio-with-Nextjs.md",
+    "Notes/Git-Commands.md",
+    "Notes/_lists.md",
+    "Useful-Commands-in-Obsidian.md",
     "Projects/Dev Portfolio with Next.js.md",
     "Projects/Premium.md"
   ]
