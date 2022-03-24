@@ -1,6 +1,6 @@
 {
   "legacyEditor": false,
   "foldHeading": false,
-  "promptDelete": false,
+  "promptDelete": true,
   "fileSortOrder": "alphabetical"
 }

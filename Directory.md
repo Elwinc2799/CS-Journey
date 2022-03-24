@@ -1,5 +1,5 @@
 # Directory
-1. [[Projects/_Lists|Personal Projects]]
+1. [[Lists|Personal Projects]]
 - data science
 - software development
 
