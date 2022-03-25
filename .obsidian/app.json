@@ -2,5 +2,7 @@
   "legacyEditor": false,
   "foldHeading": false,
   "promptDelete": true,
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "spellcheck": false,
+  "attachmentFolderPath": "_assets"
 }

@@ -1,8 +1,11 @@
 # Directory
-1. [Personal Projects](/Projects/_lists.md)
-- data science
-- software development
+1. [Software Development](/Software-Development/_lists.md)
+- Python
+- JavaScript
 
-2. [Learning Notes](/Notes/_lists.md)
-- git
-- competitive programming
+2. [Data Science](/Data-Science/_lists.md)
+- Python
+- R
+
+3. [Other](/Other/_lists.md)
+- Git

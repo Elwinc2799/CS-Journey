@@ -1,7 +1,8 @@
 [
-  "calendar",
-  "obsidian-icons-plugin",
   "templater-obsidian",
   "url-into-selection",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-icons-plugin",
+  "calendar",
+  "table-editor-obsidian"
 ]
