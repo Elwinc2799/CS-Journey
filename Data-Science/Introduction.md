@@ -72,7 +72,7 @@
 
 ➡ enables insights (data mining) and foresights (predictions)
 
-![[Pasted image 20220325174558.png]]
+![[Pasted-image-20220325174558.png]]
 
 ### Key roles for big data ecosystems
 - deep analytic talent (statisticians, data scientists)
