@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Directory.md",
+            "file": "Software-Development/Cloned-Flappy-Bird.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Directory.md",
+                "file": "Software-Development/Cloned-Flappy-Bird.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "30c433fa02e0dbfe",
   "lastOpenFiles": [
-    "Directory.md",
+    "Software-Development/Cloned-Flappy-Bird.md",
+    "Software-Development/flappy.png",
+    "_assets/data-analytic-lifecycle.png",
+    "_assets/bi-vs-ds.png",
+    "_assets/flappy-bird-2.png",
+    "_assets/flappy-bird-1.png",
     "Data-Science/Introduction.md",
     "Data-Science/Data-Analytics-Lifecycle.md",
-    "Software-Development/Cloned-Flappy-Bird.md",
-    "README.md",
     "Data-Science/_lists.md",
-    "_assets/Pasted-image-20220325174558.png",
-    "_assets/Pasted.md",
-    "Useful-Commands-in-Obsidian.md",
-    "Software-Development/_lists.md"
+    "Directory.md"
   ]
 }

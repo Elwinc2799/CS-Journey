@@ -9,7 +9,7 @@
 - data engineer
 - data scientist
 
-![](/_assets/Pasted-image-20220328144832.png)
+![](data-analytic-lifecycle.png)
 
 1. Discovery
 - access the resources needed, frame the business problem and formulate initial questions to explore the datasets
