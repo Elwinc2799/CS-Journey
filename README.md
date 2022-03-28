@@ -4,4 +4,4 @@ CS learning journey using Obsidian
 
 Hi, I am a junior data analyst and software developer graduated in computer science degree from [School of Computer Sciences](https://cs.usm.my/), [Universiti Sains Malaysia](https://www.usm.my/). Obsidian looks fun to use and I am jotting down my whole learning journey using it too. Good to see you and enjoy browsing my notes by checking on the [Directory](Directory.md).
 
-‼️ Images view in Github has wrong sizes. To have complete experience, please use Obsidian to read the notes.
+❗️ Images view in Github has wrong sizes. To have complete experience, please use Obsidian to read the notes.
