@@ -9,7 +9,7 @@
 - data engineer
 - data scientist
 
-![[Pasted-image-20220328144832.png]]
+![](/_assets/Pasted-image-20220328144832.png)
 
 1. Discovery
 - access the resources needed, frame the business problem and formulate initial questions to explore the datasets
