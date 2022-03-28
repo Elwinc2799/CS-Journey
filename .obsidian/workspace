@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data-Science/Introduction.md",
+            "file": "Software-Development/Cloned-Flappy-Bird.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4bafccdcd1bea6e0",
+    "id": "149bbcd33348e795",
     "type": "split",
     "children": [
       {
-        "id": "4cda577ec71bb44b",
+        "id": "ff77416491f688aa",
         "type": "tabs",
         "children": [
           {
-            "id": "06384d237ab94267",
+            "id": "d11d094ea12cd898",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "5c5b79ebd6a47dfd",
+            "id": "a91ad10d2b348ba2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,20 +56,28 @@
     "width": 300
   },
   "right": {
-    "id": "7d584f45490b5c4a",
+    "id": "51480d9380efb465",
     "type": "split",
     "children": [
       {
-        "id": "748bbfe81d89e388",
+        "id": "e95998de84fbe4ec",
         "type": "tabs",
         "children": [
           {
-            "id": "3bc6ecbea7e18a0b",
+            "id": "4872529e7920eda8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "df7ebc273c02064c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data-Science/Introduction.md",
+                "file": "Software-Development/Cloned-Flappy-Bird.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,22 +86,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "6a60b1ac5acfc1b0",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "c7a8364f9ae8c359",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ]
@@ -105,15 +97,15 @@
   },
   "active": "30c433fa02e0dbfe",
   "lastOpenFiles": [
+    "Software-Development/Cloned-Flappy-Bird.md",
+    "Useful-Commands-in-Obsidian.md",
+    "Software-Development/_lists.md",
     "Data-Science/Introduction.md",
+    "Data-Science/Data-Analytics-Lifecycle.md",
     "Data-Science/_lists.md",
+    "Directory.md",
     "Data-Science/Business-Value-from-Big-Data.md",
     "Other/_lists.md",
-    "Directory.md",
-    "README.md",
-    "Other/Git-Commands.md",
-    "Software-Development/_lists.md",
-    "Data-Science/Data-Science.md",
-    "Data-Science/_lists 1.md"
+    "README.md"
   ]
 }

@@ -1,4 +1,35 @@
 # Useful Commands in Obsidian
+**Bold text**
+```
+**this is some bold text**
+```
+
+*Italicize text*
+```
+*this is some italicized text*
+```
+
+***Bold and italicize text***
+```
+***this is some bold and italicized text***
+```
+
+~~Strikethrough text~~
+```
+~~this text has a strikethrough~~
+```
+
+==Highlight text==
+```
+==this is highlighted==
+```
+
+- [x] This is
+- [ ] a checklist
+```
+- [x] This is
+- [ ] a checklist
+```
 
 Create link to note
 ```
@@ -36,4 +67,9 @@ Reveal content of a link within the current note
 ```
 
 
-Ref: [Obsidian - Links You Need To Know](https://youtu.be/dmnVml_jbsQ)
+Ref:
+1. [Obsidian - Links You Need To Know](https://youtu.be/dmnVml_jbsQ)
+2. [A basic guide to formatting notes in Obsidian.md](https://rossgriffin.com/tutorials/obsidian-basics-guide/)
+
+
+

@@ -70,6 +70,18 @@
 - machine learning
 - computer science
 
+➡ enables insights (data mining) and foresights (predictions)
+
 ![[Pasted image 20220325174558.png]]
 
-sdf
+### Key roles for big data ecosystems
+- deep analytic talent (statisticians, data scientists)
+- data savvy professionals (financial analysts, market research analysts, business manager)
+- technology and data enablers (database administrator, programmer)
+
+### Profile of data scientist
+- quantitative skills
+- technical aptitude
+- skeptical and critical thinking
+- curious and creative
+- communicative and collaborative
