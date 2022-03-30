@@ -1,4 +1,5 @@
 # Other
 
 1. [Git Commands](Git-Commands.md)
-2. 
+2. [CP CheatSheet](/Other/CP-CheatSheet.md)
+3. 
