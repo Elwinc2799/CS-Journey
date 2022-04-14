@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Other/CP-CheatSheet.md",
+            "file": "Other/Python.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 191
   },
   "right": {
     "id": "51480d9380efb465",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/CP-CheatSheet.md",
+                "file": "Other/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "bb81e71a2bc08da3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -97,15 +106,15 @@
   },
   "active": "30c433fa02e0dbfe",
   "lastOpenFiles": [
+    "Other/Python.md",
+    "Other/Git-Commands.md",
+    "Useful-Commands-in-Obsidian.md",
     "Other/CP-CheatSheet.md",
     "Other/_lists.md",
-    "Other/Competitive-Programming-CheatSheet.md",
-    "Useful-Commands-in-Obsidian.md",
-    "Other/Git-Commands.md",
-    "Data-Science/Introduction.md",
-    "Data-Science/Data-Analytics-Lifecycle.md",
-    "Software-Development/Cloned-Flappy-Bird.md",
-    "_assets/data-analytic-lifecycle.png",
-    "Software-Development/flappy.png"
+    "Data-Science/PowerBI.md",
+    "Data-Science/R.md",
+    "Data-Science/_lists.md",
+    "Data-Science/Greenplum-and-Hadoop.md",
+    "Data-Science/Greenplum.md"
   ]
 }
