@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data-Science/Introduction.md",
+            "file": "Data-Science/Data-Analytics-Lifecycle.md",
             "mode": "preview",
             "source": true
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 191
+    "width": 289.5
   },
   "right": {
     "id": "51480d9380efb465",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data-Science/Introduction.md",
+                "file": "Data-Science/Data-Analytics-Lifecycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "30c433fa02e0dbfe",
   "lastOpenFiles": [
-    "Data-Science/Introduction.md",
-    "Data-Science/_lists.md",
-    "Data-Science/Data-Analytics-Lifecycle.md",
+    "Useful-Commands-in-Obsidian.md",
+    "README.md",
+    "Directory.md",
+    "Software-Development/Premium-Website-with-Nextjs.md",
+    "Software-Development/Dev-Portfolio-with-Nextjs.md",
+    "Software-Development/Cloned-Flappy-Bird.md",
     "Other/Python.md",
     "Other/Git-Commands.md",
-    "Useful-Commands-in-Obsidian.md",
     "Other/CP-CheatSheet.md",
-    "Other/_lists.md",
-    "Data-Science/PowerBI.md",
     "Data-Science/R.md"
   ]
 }

@@ -20,6 +20,7 @@
 - prepare an analytic sandbox
 - perform Extract, Transform, Load and Transform (ETLT) activities in sandbox
 - data exploration and conditioning
+Link: https://www.analyticsvidhya.com/blog/2021/06/eda-exploratory-data-analysis-with-python/#h2_1
 
 3. Model planning
 - determine the methods, techniques and workflow of the analysis
@@ -38,3 +39,5 @@
 - deliver code and technical documentations
 - run a pilot before fullu implementing the models in production state
 - recalibrate the model based on feedback
+
+
