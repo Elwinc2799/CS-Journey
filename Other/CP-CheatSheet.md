@@ -1,5 +1,3 @@
-# CP CheatSheet
-
 [Language Mechanics](#language)
 1. [Literals](#literals)
 2. [Loops](#loops)

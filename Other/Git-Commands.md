@@ -1,5 +1,3 @@
-# Useful Git commands
-
 ## Setup global configuration
 
 Set global user

@@ -1,5 +1,3 @@
-# Data Analytics Lifecycle
-
 ### Key roles for a successful analytics project
 - business user
 - project sponsor

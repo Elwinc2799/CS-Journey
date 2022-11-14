@@ -1,4 +1,3 @@
-# Directory
 1. [Software Development](/Software-Development/_lists.md)
 - Python
 - JavaScript
@@ -9,3 +8,5 @@
 
 3. [Other](/Other/_lists.md)
 - Git
+- Competitive Programming CheatSheet
+- Virtual Environment

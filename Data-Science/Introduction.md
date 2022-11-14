@@ -1,5 +1,3 @@
-# Introduction
-
 ## Big data
 ### Definition
 - datasets so large they break traditional IT infrastructure, not only signifies a huge volume of data but also presents complex data types and structure with an increasing volume of unstructured data

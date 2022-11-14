@@ -1,5 +1,3 @@
-# Greenplum and Hadoop
-
 | Application | Username | Password    |
 | ----------- | -------- | ----------- |
 | Greenplum   | gpadmin  | Ch@ngeM3N0w |

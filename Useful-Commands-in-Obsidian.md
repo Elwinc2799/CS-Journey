@@ -1,4 +1,3 @@
-# Useful Commands in Obsidian
 **Bold text**
 ```
 **this is some bold text**
