@@ -11,12 +11,8 @@
             "id": "30c433fa02e0dbfe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software-Development/Premium-Website-with-Nextjs.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software-Development/Premium-Website-with-Nextjs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +120,19 @@
   },
   "active": "30c433fa02e0dbfe",
   "lastOpenFiles": [
+    "Software-Development/Premium-Website-with-Nextjs.md",
     "Software-Development/Dev-Portfolio-with-Nextjs.md",
+    "Software-Development/_lists.md",
     "Other/Python.md",
-    "Other/Git-Commands.md",
+    "Other/_lists.md",
     "Other/CP-CheatSheet.md",
+    "Data-Science/Introduction.md",
     "Data-Science/Greenplum-and-Hadoop.md",
     "Data-Science/Data-Analytics-Lifecycle.md",
+    "Data-Science/_lists.md",
     "Data-Science/R.md",
+    "Other/Git-Commands.md",
     "Data-Science/PowerBI.md",
-    "Data-Science/Introduction.md",
     "Software-Development/Cloned-Flappy-Bird.md"
   ]
 }
