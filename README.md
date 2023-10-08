@@ -1,6 +1,6 @@
 # CS-Journey
 
-Deprecated, move to Notion site -> https://www.notion.so/elwinc2799/CS-Journey-dd7aaf5e4b7a44b6b022ff089626ff14?pvs=4
+Deprecated, move to [Notion](https://www.notion.so/elwinc2799/CS-Journey-dd7aaf5e4b7a44b6b022ff089626ff14?pvs=4)
 
 ---
 
